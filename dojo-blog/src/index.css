@@ -6,6 +6,9 @@
   font-family: "Quicksand";
   color: #333;
 }
+.home h2 {
+  margin: 20px auto;
+}
 .navbar {
   padding: 20px;
   display: flex;
@@ -32,4 +35,18 @@
   max-width: 600px;
   margin: 40px auto;
   padding: 20px;
+}
+
+.blog-preview {
+ padding: 10px 16px;
+ margin: 20px 0;
+}
+
+.blog-preview li {
+  text-decoration:none;
+  list-style: none;
+}
+
+.blog-preview:hover {
+  box-shadow: 1px 3px 5px #333;
 }
