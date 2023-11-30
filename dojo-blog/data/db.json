@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "id": 1,
-      "title": "MAKING POST REQUESTS USING AXIOS",
-      "content": "THE SAME CONTENT",
-      "author": "IT'S ALMIGHTY PRINCE VEGETA"
-    },
-    {
       "id": 2,
       "title": "MAKING POST REQUESTS USING AXIOS",
       "content": "THE SAME CONTENT",
